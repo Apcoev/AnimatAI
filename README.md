@@ -39,4 +39,28 @@ Call `setAction` based on the AI model’s status or reactions. For example:
 - `setAction('excited')` if the response shows excitement.
 - `setAction('speaking')` for general replies.
 
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
+
 Check the [demo](https://animat.fun/) for more action details.
