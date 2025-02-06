@@ -39,4 +39,4 @@ Call `setAction` based on the AI model’s status or reactions. For example:
 - `setAction('excited')` if the response shows excitement.
 - `setAction('speaking')` for general replies.
 
-Check the [demo]([https://animat.fun]) for more action details.
+Check the [demo](https://animat.fun/) for more action details.
