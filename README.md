@@ -1,6 +1,7 @@
 # AnimatAI
 A collection of tamagotchi characters to give AI assistants an identity.
-![f0c76321ac1839d25f97248cda6d6c9](https://github.com/user-attachments/assets/bfe9edea-8e59-45d0-af6b-f4c2356def48)
+![af25b55d4fb1fabe1d368cea99084be](https://github.com/user-attachments/assets/6ae2f043-ff9a-4870-a201-c2551d8c3513)
+
 
 # Tamagotchi
 
